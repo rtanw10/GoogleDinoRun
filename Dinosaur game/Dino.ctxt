@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Dino
+comment0.text=\n\ Write\ a\ description\ of\ class\ Dino\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment10.params=
+comment10.target=void\ Fall()
+comment11.params=
+comment11.target=void\ checkFall()
+comment2.params=
+comment2.target=Dino()
+comment3.params=
+comment3.target=void\ control()
+comment4.params=
+comment4.target=void\ switchImage()
+comment5.params=
+comment5.target=void\ checkForJump()
+comment6.params=
+comment6.target=void\ touchCactus()
+comment7.params=
+comment7.target=boolean\ onGround()
+comment8.params=
+comment8.target=void\ jump()
+comment9.params=
+comment9.target=void\ checkKeys()
+numComments=12
